@@ -1,6 +1,7 @@
 .gradle
 /build/
 bin
+out
 
 ### STS ###
 .apt_generated
