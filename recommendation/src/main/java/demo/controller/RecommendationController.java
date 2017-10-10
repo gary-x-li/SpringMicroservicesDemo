@@ -14,7 +14,7 @@ public class RecommendationController {
 
     @RequestMapping(value="/movies",method=RequestMethod.GET)
     public String getMovies() {
-        return "Frozen";
+        return exampleProperty + " " + "Frozen";
     }
 
 }
